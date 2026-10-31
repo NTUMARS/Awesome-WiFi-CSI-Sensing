@@ -258,6 +258,7 @@ IEEE 802.11ac routers with 256 subcarriers (practically 242 available). It inclu
 * [LSTM for Human Activity Recognition](https://github.com/Retsediv/WIFI_CSI_based_HAR) (Pytorch)
 * [SVM for Human Activity Recognition](https://github.com/noahcroit/HumanActivityDetection_using_CSI_MATLAB) (MATLAB)
 * [Gesture Data Collection Tool for Nexmon CSI Tool](https://github.com/dingyiyi0226/gesture-recognition-csi) (Python)
+* [Router CSI Toolkit](https://github.com/jjjwu/router-csi-toolkit) (Python & POSIX shell)
 
 
 
